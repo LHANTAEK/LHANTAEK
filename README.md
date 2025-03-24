@@ -8,7 +8,6 @@
 - **[Dify](https://github.com/langgenius/dify)** (⭐️85k)
   - PR [#15235](https://github.com/langgenius/dify/pull/15235): Refactored fallback logic in multi-retrieval reranking configuration
   - Improved robustness of semantic/keyword reranking setup in LLM pipelines
-  - Merged into `main` branch
 
  
 - [teddynote-lab/mcp-usecase](https://github.com/teddynote-lab/mcp-usecase):  
