@@ -10,7 +10,7 @@
   - Improved robustness of semantic/keyword reranking setup in LLM pipelines
 
  
-- **[teddynote-lab/mcp-usecase](https://github.com/teddynote-lab/mcp-usecase)** (⭐️128)  
+- **[teddynote-lab/mcp-usecase](https://github.com/teddynote-lab/mcp-usecase)** (⭐️135)  
   - Creator and maintainer of an MCP integration toolkit for Claude Desktop & Cursor (RAG, Dify, web search)
 
 
