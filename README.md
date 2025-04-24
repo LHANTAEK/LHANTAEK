@@ -5,12 +5,12 @@
 
 ### 👥 Open Source Contributions
 
-- **[Dify](https://github.com/langgenius/dify)** (⭐️90k)
+- **[Dify](https://github.com/langgenius/dify)**
   - PR [#15235](https://github.com/langgenius/dify/pull/15235): Refactored fallback logic in multi-retrieval reranking configuration
   - Improved robustness of semantic/keyword reranking setup in LLM pipelines
 
  
-- **[teddynote-lab/mcp-usecase](https://github.com/teddynote-lab/mcp-usecase)** (⭐️135)  
+- **[teddynote-lab/mcp-usecase](https://github.com/teddynote-lab/mcp-usecase)**  
   - Creator and maintainer of an MCP integration toolkit for Claude Desktop & Cursor (RAG, Dify, web search)
 
 
